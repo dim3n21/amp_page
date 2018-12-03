@@ -1,0 +1,43 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More to read"
+    },
+    {
+      "type": "small",
+      "title": "Learn about Javascript",
+      "url": "https://www.javascript.com/",
+      "image": "assets/js_lib.jpg"
+    },
+    {
+      "type": "landscape",
+      "title": "Learn about React JS",
+      "url": "https://reactjs.org/",
+      "image": "assets/react_lib.jpg",
+      "category": "React"
+    },
+    {
+      "type": "portrait",
+      "title": "Learn about Angular JS",
+      "url": "https://angularjs.org/",
+      "image": "assets/angular_lib.jpg",
+      "category": "Angular"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Learn more",
+          "url": "https://www.ampproject.org/stories/"
+        }
+      ]
+    }
+  ]
+}
