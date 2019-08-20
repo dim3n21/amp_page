@@ -4,6 +4,6 @@
 
 =============================================================================================
 
-Just a simple stpory page dedicated to Javascript. Build with AMP - Accelerated Mobile Pages.
+Simple story page dedicated to Javascript. Build with AMP - Accelerated Mobile Pages.
 
 =============================================================================================
